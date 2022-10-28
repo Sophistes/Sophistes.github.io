@@ -7,12 +7,10 @@
 }
 
 
-
-/* Website Background */
-
-
-
 /* Nav bar */
+.tpnav {
+    color:black;
+}
 
 .navtop ul {
     text-align: right;
